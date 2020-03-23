@@ -22,7 +22,7 @@ Git reset vs. Git rm
 
 Duración: NOTA (ver GDocs)
 
-23/03/2020 - Tiempo dedicado: XX hs
+23/03/2020 - Tiempo dedicado: 1 hs
 
 Clase:
 3- Flujo de trabajo básico en Git
