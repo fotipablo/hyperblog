@@ -86,7 +86,7 @@ Asombroso, ¿verdad? Es como si Git tuviera super poderes para saber qué cambio
 
 Recuerda que al ejecutar el comando git checkout para cambiar de rama o commit puedes perder el trabajo que no hayas guardado. Guarda tus cambios antes de hacer git checkout.
 
-01/04/2020 - Tiempo dedicado: 0.5 hs
+01/04/2020 - Tiempo dedicado: 1 hs
 
 Video:
 Solución de conflictos al hacer un merge
